@@ -1,0 +1,30 @@
+var statements=[
+	{
+		"cis":"she/her",
+		"trans":"Use: what are your pronouns?"
+	},
+	{
+		"cis":"my daughter",
+		"trans": "Use: my child"
+	},
+	{
+		"cis":"your gender is too complicated",
+		"trans": "Translation: I think that anything I don't understand isn't real. That's why I don't believe in astrophysics."
+	},
+	{
+		"cis":"are you going to transition?",
+		"trans": "What I do to my own body is exactly none of your business"
+	},
+	{
+		"cis":"so, are you a boy or a girl?",
+		"trans": "I'm a menace"
+	},
+	{
+		"cis":"you don't look non-binary",
+		"trans": "There is no way to look non-binary. Gender nonconformity doesn't have a single look"
+	},
+	{
+		"cis":"they/them aren't singular pronouns",
+		"trans":"Translation: I don't understand that language is a fluid cultural construct. I still use the pronoun 'thou' and speak only in ways permitted by the very first grammar textbook I've read"
+	}
+]

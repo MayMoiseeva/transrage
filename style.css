@@ -1,0 +1,57 @@
+body{
+	background: hsl(40,100%,80%);
+}
+
+.phrases{
+	position:relative;
+	background: hsl(0,80%,60%);
+	width:20vw;
+	height:30vh;
+	border-radius: 50%;
+	display:inline-block;
+	filter:drop-shadow(0vh 3vh hsl(0,80%,30%));
+	margin:2vw;
+	cursor:pointer;
+}
+
+.select{
+	position:relative;
+	top:3vh;
+	filter:drop-shadow(0vh 1px hsl(0,80%,30%));
+}
+
+.text{
+	filter:none;
+	display:inline-block;
+	background:hsl(40,100%,95%);
+	max-width:15vw;
+	position:absolute;
+	top:40%;
+	left:2vw;
+	padding:.5em;
+}
+
+.page{
+	width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: hsla(0,0%,100%,0.5);
+    z-index: 100;
+    cursor:pointer;
+}
+
+.answer{
+	background:hsl(40,100%,95%);
+	width:40vw;
+	height:40vh;
+	position:absolute;
+	top:30vh;
+	left:30vw;
+	border:2px solid hsl(40,30%,50%);
+	padding:1em;
+	padding-top:2em;
+	text-align: center;
+	font-size: 1.5em;
+}
