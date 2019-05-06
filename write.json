@@ -4,8 +4,8 @@ var statements=[
 		"trans":"Use: what are your pronouns?"
 	},
 	{
-		"cis":"my daughter",
-		"trans": "Use: my child"
+		"cis":"my daughter/my sister",
+		"trans": "Use: my child/my sibling"
 	},
 	{
 		"cis":"your gender is too complicated",
