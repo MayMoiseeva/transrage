@@ -24,12 +24,14 @@ body{
 	filter:none;
 	display:inline-block;
 	background:hsl(40,100%,95%);
-	max-width:14vw;
+	width:13vw;
 	position:absolute;
 	top:35%;
-	left:2vw;
+	left:2.5vw;
 	padding:1em;
 	border-radius: 2em;
+	text-align: center;
+
 }
 
 .page{
