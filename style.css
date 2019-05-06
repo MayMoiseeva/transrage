@@ -24,11 +24,12 @@ body{
 	filter:none;
 	display:inline-block;
 	background:hsl(40,100%,95%);
-	max-width:15vw;
+	max-width:14vw;
 	position:absolute;
-	top:40%;
+	top:35%;
 	left:2vw;
-	padding:.5em;
+	padding:1em;
+	border-radius: 2em;
 }
 
 .page{
